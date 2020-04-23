@@ -1,4 +1,5 @@
 # Hello World 
-![visit](https://github.com/anggit97/Tensorflow-Playground/tree/master/hello-world/)
+<a href="https://github.com/anggit97/Tensorflow-Playground/tree/master/hello-world/">visit project</a>
 
-# Other
+# Computer Vision
+<a href="https://github.com/anggit97/Tensorflow-Playground/tree/master/computer-vision">visit project</a>
